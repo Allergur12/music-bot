@@ -1,0 +1,21 @@
+{
+  "name": "bot-alejandro-xd",
+  "version": "0.0.1-beta",
+  "description": "bot xd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drgatoxd™#7850",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "discord.js": "^13.4.0-dev.1638964985.4515bb1",
+    "dotenv": "^10.0.0",
+    "erela.js": "^2.3.3",
+    "lavasfy": "^2.3.0"
+  }
+}
